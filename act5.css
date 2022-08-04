@@ -10,7 +10,15 @@ h1 {
     font-size: 70px;
     padding: 40px;
     
+
+    
 }
+.title {
+    background: blue;
+    border-radius: 5px;
+    
+}
+
 h2 {
     font-size: 40px;
     margin-top: 25px;
@@ -19,7 +27,7 @@ h2 {
     margin-bottom: 80px;
 }
 .pics {
-    width: 33%;
+    text-align: center;
     padding: 20px;
 }
 .l1:hover {
